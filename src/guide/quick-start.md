@@ -33,11 +33,11 @@ import { VTCodeGroup, VTCodeGroupTab } from '@vue/theme'
 ::: code-group
 
 ```sh [npm]
-npm create vue@latest
+$ npm create vue@latest
 ```
 
 ```sh [pnpm]
-pnpm create vue@latest
+$ pnpm create vue@latest
 ```
 
 ```sh [yarn]
@@ -52,7 +52,7 @@ $ yarn dlx create-vue@latest
 ```
 
 ```sh [bun]
-bun create vue@latest
+$ bun create vue@latest
 ```
 
 :::
@@ -78,27 +78,27 @@ bun create vue@latest
 ::: code-group
 
 ```sh-vue [npm]
-cd {{'<your-project-name>'}}
-npm install
-npm run dev
+$ cd {{'<your-project-name>'}}
+$ npm install
+$ npm run dev
 ```
 
 ```sh-vue [pnpm]
-cd {{'<your-project-name>'}}
-pnpm install
-pnpm run dev
+$ cd {{'<your-project-name>'}}
+$ pnpm install
+$ pnpm run dev
 ```
 
 ```sh-vue [yarn]
-cd {{'<your-project-name>'}}
-yarn
-yarn dev
+$ cd {{'<your-project-name>'}}
+$ yarn
+$ yarn dev
 ```
 
 ```sh-vue [bun]
-cd {{'<your-project-name>'}}
-bun install
-bun run dev
+$ cd {{'<your-project-name>'}}
+$ bun install
+$ bun run dev
 ```
 
 :::
@@ -115,19 +115,19 @@ bun run dev
 ::: code-group
 
 ```sh [npm]
-npm run build
+$ npm run build
 ```
 
 ```sh [pnpm]
-pnpm run build
+$ pnpm run build
 ```
 
 ```sh [yarn]
-yarn build
+$ yarn build
 ```
 
 ```sh [bun]
-bun run build
+$ bun run build
 ```
 
 :::

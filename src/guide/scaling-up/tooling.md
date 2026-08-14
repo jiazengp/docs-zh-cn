@@ -28,11 +28,11 @@ import { VTCodeGroup, VTCodeGroupTab } from '@vue/theme'
 ::: code-group
 
 ```sh [npm]
-npm create vue@latest
+$ npm create vue@latest
 ```
 
 ```sh [pnpm]
-pnpm create vue@latest
+$ pnpm create vue@latest
 ```
   
 ```sh [yarn]
@@ -44,7 +44,7 @@ $ yarn dlx create-vue@latest
 ```
   
 ```sh [bun]
-bun create vue@latest
+$ bun create vue@latest
 ```
 
 :::

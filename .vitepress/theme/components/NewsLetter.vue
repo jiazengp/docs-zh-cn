@@ -45,7 +45,7 @@ import { VTLink } from '@vue/theme'
           href="https://news.vuejs.org/"
           no-icon
           >news.vuejs.org</VTLink> 阅读之前的期刊并收听我们的播客。你也可以在
-        <VTLink class="link" href="https://twitter.com/vuejs" no-icon>Twitter</VTLink> 关注我们，或加入我们的
+        <VTLink class="link" href="https://x.com/vuejs" no-icon>Twitter</VTLink> 关注我们，或加入我们的
         <VTLink class="link" href="https://discord.com/invite/vue" no-icon>Discord</VTLink> 家园。
       </p>
     </div>
