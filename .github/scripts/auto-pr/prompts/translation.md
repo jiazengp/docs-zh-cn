@@ -180,13 +180,13 @@
 
 > 链接文本是自然语言，必须翻译。URL 更新为新的中文地址。
 
-### 示例 7：代码注释 (翻译注释内容)
+### 示例 7：代码注释 (翻译注释内容，并转为中文版本的 URL)
 
 ```json
 {
-  "current": "// 确保只在服务端渲染时调用\n  // https://cn.vitejs.dev/guide/ssr.html#conditional-logic",
+  "current": "// 确保只在服务端渲染时调用\n  // https://cn.vite.dev/guide/ssr.html#conditional-logic",
   "incoming": "// make sure to only call it during SSR\n  // https://vite.dev/guide/ssr.html#conditional-logic",
-  "review": "// 确保只在服务端渲染时调用\n  // https://vite.dev/guide/ssr.html#conditional-logic"
+  "review": "// 确保只在服务端渲染时调用\n  // https://cn.vite.dev/guide/ssr.html#conditional-logic"
 }
 ```
 
