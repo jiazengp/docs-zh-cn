@@ -164,17 +164,21 @@
 
 > 自然语言翻译为中文，URL 更新为新地址但不翻译。
 
-### 示例 6：链接列表 (翻译链接文本，保留 URL)
+### 示例 6：链接列表 (翻译链接文本，转为中文版本的 URL)
+
+**英文版本的 `vite.dev` 和中文版本 `cn.vite.dev` 的映射**：
+
+- `https://vite.dev` => `https://cn.vite.dev`
 
 ```json
 {
-  "current": "- [Vite 生产环境指南](https://cn.vitejs.dev/guide/build.html)\n- [Vite 部署指南](https://cn.vitejs.dev/guide/static-deploy.html)",
+  "current": "- [Vite 生产环境指南](https://cn.vite.dev/guide/build.html)\n- [Vite 部署指南](https://cn.vite.dev/guide/static-deploy.html)",
   "incoming": "- [Vite production build guide](https://vite.dev/guide/build.html)\n- [Vite deployment guide](https://vite.dev/guide/static-deploy.html)",
-  "review": "- [Vite 生产环境构建指南](https://vite.dev/guide/build.html)\n- [Vite 部署指南](https://vite.dev/guide/static-deploy.html)"
+  "review": "- [Vite 生产环境构建指南](https://vite.dev/guide/build.html)\n- [Vite 部署指南](https://cn.vite.dev/guide/static-deploy.html)"
 }
 ```
 
-> 链接文本是自然语言，必须翻译。URL 更新为新地址。
+> 链接文本是自然语言，必须翻译。URL 更新为新的中文地址。
 
 ### 示例 7：代码注释 (翻译注释内容)
 
