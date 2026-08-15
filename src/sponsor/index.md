@@ -66,12 +66,12 @@ Vue.js 是采用 MIT 许可的开源项目，使用完全免费。
 - **全球特别赞助商**：
   - 全球**独家**赞助商 <span v-if="!data?.special">(目前空缺。[联系我们](mailto:sponsor@vuejs.org?subject=Vue.js%20special%20sponsor%20inquiry))</span><span v-else>(目前已经满员)</span>
   - [vuejs.org](https://vuejs.org) 首屏无需滚动可见的独家 logo 展示位。
-  - 通过 [Vue 官方 X 账号](https://twitter.com/vuejs) (32 万粉丝) 对主要产品独家发布进行特别喊话和定期转发。
+  - 通过 [Vue 官方 X 账号](https://x.com/vuejs) (32 万粉丝) 对主要产品独家发布进行特别喊话和定期转发。
   - 所有级别的 logo 展示位中最显眼的位置。
 - **铂金赞助商 (2,000 美元/月)**：
   - [vuejs.org](https://vuejs.org) 首页明显的 logo 展示位。
   - 所有内容页面的侧边栏上的明显的 logo 展示位。
-  - 在 [`vuejs/core`](https://github.com/vuejs/core) 和 [`vuejs/vue`](https://github.com/vuejs/core) 的 README 上明显的 logo 展示位。
+  - 在 [`vuejs/core`](https://github.com/vuejs/core) 和 [`vuejs/vue`](https://github.com/vuejs/vue) 的 README 上明显的 logo 展示位。
 - **金牌赞助商 (500 美元/月)**：
   - [vuejs.org](https://vuejs.org) 首页大号的 logo 展示位。
   - 在 `vuejs/core` 和 `vuejs/vue` 的 README 上大号的 logo 展示位。

@@ -16,8 +16,8 @@ Vue.js 的社区正在急速增长中，如果你正在阅读本文，这说明�
 
 ### 保持关注 {#stay-in-the-know}
 
-- 关注我们的[官方 Twitter 账号](https://twitter.com/vuejs)。
-- 关注我们的[团队成员](./team)的 Twitter 或 GitHub 账号。
+- 关注我们的[官方 Twitter 账号](https://x.com/vuejs)。
+- 关注我们的[团队成员](./team) (Twitter 或 GitHub)。
 - 关注 [RFC 讨论](https://github.com/vuejs/rfcs)。
 - 订阅[官方博客](https://blog.vuejs.org/)。
 
@@ -28,7 +28,7 @@ Vue.js 的社区正在急速增长中，如果你正在阅读本文，这说明�
 - [DEV 社区](https://dev.to/t/vue)：在 Dev.to 分享与讨论 Vue 的相关话题。
 - [Meetup](https://events.vuejs.org/meetups)：想在当地找到像你一样的 Vue.js 爱好者吗？有兴趣成为社区领袖吗？这里就有你所需要的支持和帮助！
 - [GitHub](https://github.com/vuejs)：如果你想报告 bug 或者提出新特性需求，欢迎来 GitHub 提交 issue。我们也非常欢迎 pull request！
-- [Twitter 社区 (非官方)](https://twitter.com/i/communities/1516368750634840064)：一个 Twitter 社区，在那里你可以认识其他 Vue 爱好者、获得帮助或讨论 Vue 的相关话题。
+- [Twitter 社区 (非官方)](https://x.com/i/communities/1516368750634840064)：一个 Twitter 社区，在那里你可以认识其他 Vue 爱好者、获得帮助或讨论 Vue 的相关话题。
 
 ### 探索生态 {#explore-the-ecosystem}
 
@@ -80,4 +80,4 @@ Vue 核心库提供了一份[贡献指南](https://github.com/vuejs/core/blob/ma
 - **自己组织 meetup**。如果你所在的地方没有人组织 meetup，你可以自己组织起来！要善用 [events.vuejs.org 的资源](https://events.vuejs.org/resources/#getting-started)！
 - **帮助 meetup 组织者**。举办活动向来是众人拾柴火焰高，不妨主动搭把手，协助当地组织者将每场活动办得圆满成功。
 
-对于如何参与当地的 Vue 社区，如果你有任何问题，请联系 [@Vuejs_Events](https://www.twitter.com/vuejs_events)！
+对于如何参与当地的 Vue 社区，如果你有任何问题，请联系 [@Vuejs_Events](https://www.x.com/vuejs_events)！

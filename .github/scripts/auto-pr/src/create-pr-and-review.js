@@ -37,11 +37,13 @@ export function buildPrBody({
   ignoreGlobs = "",
   detectChangedFiles = "",
 }) {
-  let body = `## Upstream Sync\n\n- Upstream: \`${upstreamRepo}\` @ \`${upstreamHash}\`\n- Merge result: \`${mergeResult}\`\n`;
+  let body = `## Upstream Sync\n\n`;
 
   if (syncBaseHash && upstreamHash) {
-    body += `\n- [View upstream changes](https://github.com/${upstreamRepo}/compare/${syncBaseHash}...${upstreamHash})\n`;
+    body += `- Upstream: https://github.com/${upstreamRepo}/compare/${syncBaseHash}...${upstreamHash}`;
   }
+
+  body += `\n- Merge result: \`${mergeResult}\`\n`;
 
   body += `\n\n## Changes\n`;
 
