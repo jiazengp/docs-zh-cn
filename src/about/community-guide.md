@@ -17,7 +17,7 @@ Vue.js 的社区正在急速增长中，如果你正在阅读本文，这说明�
 ### 保持关注 {#stay-in-the-know}
 
 - 关注我们的[官方 Twitter 账号](https://x.com/vuejs)。
-- 关注我们的[团队成员](./team)（Twitter 或 GitHub）。
+- 关注我们的[团队成员](./team) (Twitter 或 GitHub)。
 - 关注 [RFC 讨论](https://github.com/vuejs/rfcs)。
 - 订阅[官方博客](https://blog.vuejs.org/)。
 
